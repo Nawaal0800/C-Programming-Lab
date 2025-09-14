@@ -13,7 +13,12 @@ My favourite programming languages:
   - ~~PF Lab 4~~
   - Calculus **(Due Today)**
 
-'You can take a vacation after completing these tasks'
+'''c
+#include <stdio.h>
+int main() {
+printf("you can take a vacation after completing this");
+return 0;
+} '''
   
     
   
