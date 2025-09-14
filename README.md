@@ -13,7 +13,7 @@ My favourite programming languages:
   - ~~PF Lab 4~~
   - Calculus **(Due Today)**
 
-'printf("You can take a vacationn after completing these tasks")'
+'You can take a vacation after completing these tasks'
   
     
   
